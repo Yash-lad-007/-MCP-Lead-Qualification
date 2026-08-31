@@ -3,7 +3,7 @@ AI-powered conversational lead qualification & automation using n8n, Google Gemi
 
 n8n AI MCP Status
 
-🌟 Project Overview
+🌟 Project Overview 
 This project demonstrates a real-world AI automation system where an intelligent chat agent qualifies leads conversationally and automatically stores structured data into Google Sheets.
  
 Built using n8n + MCP, this project follows a clean client–server architecture and is ideal for:
